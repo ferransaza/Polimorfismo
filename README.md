@@ -1,5 +1,5 @@
 Polimorfismos
 
-Álvaro Cendoya
-Ferran Saigi
-Adrián Quirós
+Álvaro Cendoya,
+Ferran Saigi,
+Adrián Quirós.
