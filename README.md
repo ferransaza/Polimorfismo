@@ -1,4 +1,4 @@
-Polimorfismos
+Ejercicio de polimorfismo.
 
 Álvaro Cendoya,
 Ferran Saigi,
