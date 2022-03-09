@@ -1,8 +1,11 @@
 package edu.upc.eetac.dsa;
 
-public class Cuadrado extends Figura
+public class Cuadrado extends Comparador
 {
-    double x;
+    private double lado;
 
-    public Cuadrado(double x) { super(r, r); }
+    public Cuadrado(double l) { this.lado = l; }
+
+    @Override
+    public double Area() { return lado*lado; }
 }
