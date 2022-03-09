@@ -1,3 +1,5 @@
+package edu.upc.eetac.dsa;
+
 public class Cuadrado extends Figura
 {
     double x;
