@@ -12,5 +12,7 @@ public class Main
         f[1] = new Cuadrado(10);
         f[2] = new Rectangulo(7,7);
         f[3] = new Triangulo(3,3);
+
+        Arrays.sort(f);
     }
 }
