@@ -1,6 +1,6 @@
 package edu.upc.eetac.dsa;
 
-public class Cuadrado extends Comparador
+public class Cuadrado extends Figura
 {
     private double lado;
 

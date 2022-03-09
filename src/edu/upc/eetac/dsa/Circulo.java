@@ -1,6 +1,6 @@
 package edu.upc.eetac.dsa;
 
-public class Circulo extends Comparador
+public class Circulo extends Figura
 {
     private double radio;
 

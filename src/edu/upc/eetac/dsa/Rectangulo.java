@@ -1,6 +1,6 @@
 package edu.upc.eetac.dsa;
 
-public class Rectangulo extends Comparador
+public class Rectangulo extends Figura
 {
     private double x, y;
 
