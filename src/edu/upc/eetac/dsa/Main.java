@@ -25,6 +25,6 @@ public class Main
 	    sum = f[i].Area() + sum;
             i++;
         }
-        System.out.println("El área es de " + sumaAreas(v));
+        System.out.println("El área es de " + sum);
     }
 }
