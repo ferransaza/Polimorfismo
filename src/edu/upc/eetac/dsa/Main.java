@@ -13,6 +13,18 @@ public class Main
         f[2] = new Rectangulo(7,7);
         f[3] = new Triangulo(3,3);
 
+        printArray(f);
+        
         Arrays.sort(f);
+        
+        printArray(f);
+        
+        double sum = 0;
+        for(i = 0; i < 4; i++) 
+        {
+	        sum = f[i].Area() + sum;
+            i++;
+        }
+        System.out.println("El área es de " + sumaAreas(v));
     }
 }
