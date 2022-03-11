@@ -22,7 +22,7 @@ public class Main
         double sum = 0;
         for(i = 0; i < 4; i++) 
         {
-	        sum = f[i].Area() + sum;
+	    sum = f[i].Area() + sum;
             i++;
         }
         System.out.println("El área es de " + sumaAreas(v));
